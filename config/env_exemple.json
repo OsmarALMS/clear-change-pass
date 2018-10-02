@@ -1,0 +1,7 @@
+{
+  "URL_BROKER":"https://www.clear.com.br/pit/daytrade/Main",
+  "BROKER_CPF_CNPJ":"123123123",
+  "BROKER_PASSWORD":"123123123",
+  "BROKER_DT_NASC":"01/01/1900",
+  "BROKER_SIGNATURE":"123123123"
+}
